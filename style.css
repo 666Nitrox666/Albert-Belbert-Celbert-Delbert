@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+}
+
+.Albert_Einstein{
+    color: darkblue;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+    height: 600px;
+    margin: auto;
+    padding: auto;
+}
+
+.Albert_Einstein h1{
+    font-size: 24px;
+}
+
+h1{
+    font-size: 24px;
+    color: darkblue;
+}
+
+.text ul{
+    font-size: 12;
+    list-style: square;
+    color: black;
+    text-align: left;
+}
+p{
+    text-align: center;
+}
